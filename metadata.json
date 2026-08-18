@@ -1,0 +1,6 @@
+{
+  "name": "AI Float Phone - Cognitive Memory Bank",
+  "description": "Multi-dimensional 7-category character memory system with cognitive digestion and personality internalization",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

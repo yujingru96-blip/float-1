@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+55161092e959c8859c090c1ffba714c1e52f7e39 refs/remotes/origin/chatgpt-changes
+0f61094ef5f71d9af68c1360f598099a5c68eb8b refs/remotes/origin/claude/chain-of-thought-ui-hide-tuory8
+3976023be3d87ece8cc7678b2be008cea023e1de refs/remotes/origin/claude/code-writing-help-2imnbk
+0509eee5ed2c726a1556c919d8d1d58181e861fa refs/remotes/origin/claude/footprint-feature-design-lu16cy
+4542fed9fb07918e79da65e46019845c53737f90 refs/remotes/origin/claude/hello-h3njhc
+651fde00d2a488031356576a9b0697f30492edcd refs/remotes/origin/claude/shortcut-network-disconnect-7fhwm3
+75318341bf671b93dfe7132bc2ef7bd54006e9ae refs/remotes/origin/claude/sticker-prompt-format-eradh7
+ef9ac69fae6d75d6e3d17a8d35992111d93602e1 refs/remotes/origin/main
+f89a23d3946fbe2353ef5f3c9eed64e472e2555f refs/remotes/origin/test
